@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GATE.iml" filepath="$PROJECT_DIR$/.idea/GATE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../graphnets_gcn/.idea/graphnets_gcn.iml" filepath="$PROJECT_DIR$/../graphnets_gcn/.idea/graphnets_gcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interview_practices/.idea/interview_practices.iml" filepath="$PROJECT_DIR$/../interview_practices/.idea/interview_practices.iml" />
+    </modules>
+  </component>
+</project>
